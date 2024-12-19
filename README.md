@@ -3,5 +3,5 @@ The Bank Management System is a simple project demonstrating the basic workflow 
 Withdraw funds
 Deposit funds
 Check account balance
-Assess loan eligibility
-![Uploading Screenshot (277).png…]()
+![Screenshot (277)](https://github.com/user-attachments/assets/f5b4df0c-c91b-47b0-9da4-76edf805a739)
+
